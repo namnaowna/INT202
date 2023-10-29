@@ -1,5 +1,6 @@
 # INT202
 https://github.com/GodeFvt/java_practice/tree/main/INT202/SitSpaceManagement
+https://www.youtube.com/watch?v=5tLGwdyPGRY&ab_channel=Telusko
 
         <dependency>
             <groupId>org.projectlombok</groupId>
