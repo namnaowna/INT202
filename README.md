@@ -2,6 +2,7 @@
 - https://github.com/GodeFvt/java_practice/tree/main/INT202/SitSpaceManagement
 - https://www.youtube.com/watch?v=5tLGwdyPGRY&ab_channel=Telusko
 - https://tall-shamrock-65b.notion.site/Server-Side-350d38886cff448388b801e4fe86a824
+- https://blog.jetbrains.com/idea/2021/02/creating-a-simple-jpa-application/
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
